@@ -1,0 +1,24 @@
+# 💼 Sistema de Gestão Empresarial em Java
+
+## 📝 Descrição
+
+Este projeto foi desenvolvido com o objetivo de simular um **Sistema de Gestão Empresarial**, aplicando os conceitos da **Programação Orientada a Objetos (POO)** em Java.
+
+O sistema tem como finalidade representar de forma simples o funcionamento básico de uma empresa, permitindo:
+
+- 📋 Gerenciar dados de funcionários e clientes;
+- 📦 Controlar produtos e estoque;
+- 🛒 Realizar vendas, descontando automaticamente os produtos vendidos do estoque;
+- 💰 Calcular e exibir o valor total das vendas realizadas.
+
+## 🎯 Objetivo do Projeto
+
+- Demonstrar na prática os quatro pilares da POO:
+  - **Abstração**
+  - **Encapsulamento**
+  - **Herança**
+  - **Polimorfismo**
+
+- Simular processos reais de uma empresa de forma simples e didática.
+
+---
